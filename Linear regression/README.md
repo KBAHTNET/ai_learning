@@ -1,5 +1,5 @@
 ## Задание
-Реализуйте обучение нейронной сети из одного нейрона для задачи предсказания стоимости квартир [boston house prices](!https://github.com/KBAHTNET/ai_learning/blob/main/Linear%20regression/Boston%20House%20Prices.csv) или [california housing prices](!) с использованием pytorch.
+Реализуйте обучение нейронной сети из одного нейрона для задачи предсказания стоимости квартир [boston house prices](!https://github.com/KBAHTNET/ai_learning/blob/main/Linear%20regression/Boston%20House%20Prices.csv) или [california housing prices](!https://github.com/KBAHTNET/ai_learning/blob/main/Linear%20regression/California%20Housing%20Prices.csv) с использованием pytorch.
 
 ## Инструкция к выполнению задания
 
